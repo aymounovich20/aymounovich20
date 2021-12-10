@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/aymen-ben-abbes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen-ben-abbes" height="30" width="40" /></a>
 <a href="https://fb.com/aymounovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymounovich" height="30" width="40" /></a>
+<a href="https://instagram.com/aymen_ben_abbess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aymen_ben_abbess" height="30" width="40" /></a>
+<a href="https://www.behance.net/aymounovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aymounovich" height="30" width="40" /></a>
+<a href="https://discord.gg/cAsE sEnSitlvE!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cAsE sEnSitlvE!" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
